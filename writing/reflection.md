@@ -75,6 +75,25 @@ I decided to leave out details that I felt were unneeded and would only become r
 
 Q12: Please place your maze solution "code" below.
 
-TODO
+-Imagine each space to be a hexagon, and after each movement you are in the direct middle of that hexagon, also imagine the directions being like a clock, up is 12 oclock, down is 6 oclock.
+- start at the top of the maze where there is an opening and face 6 o'clock
+- go down 1 unit and look at 2 o'clock
+- move forward 1 unit, face 4
+- move forward 2 units and face 6
+- move 2 units forwards, face 10
+- move 1 unit forward, face 8
+- move 1 unit forward, face 10
+- move 1 unit forward, face 2
+- move 1 unit forward, face 10
+- move 1 unit forward, face 8
+- move 2 units forward, face 4
+- move 1 unit forward, face 6
+- move 1 unit forward, face 2
+- move 1 unit forward face 6
+- move 2 units forward, face 2
+- move 1 unit forward, face 6
+- move 1 unit forward, You're done!
 ---
 (Did you remember to write your name above?)
+
+Yes
