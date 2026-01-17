@@ -63,15 +63,15 @@ I noticed that unless you are intentionally trying to find a way to prove the st
 
 Q9: If you made a mistake or got stuck while following the instructions, what was the cause? Was it due to an error in the instructions, a misunderstanding, or something else? How does this relate to errors that can occur when a computer runs source code?
 
-TODO 
+I think the cause for a mistake that comes from the instructions would be just a misunderstanding. There are many variables that could be different which would completely alter the outcome but a simple understanding of how mazes work and the purpose of this assignment will work fine.
 
 Q10: Imagine a computer following your group's instructions exactly as written, without any ability to guess or improvise. Would the computer be able to solve the maze successfully? Why or why not?
 
-TODO
+probably not because the computer wouldn't use common sense about where to start and wouldn't be able to decipher what would and wouldn't be 1 "unit" of movement.
 
 Q11: How did you decide what details to include or leave out when writing your own instructions? What challenges did you face in making your instructions both complete and easy to follow?
 
-TODO
+I decided to leave out details that I felt were unneeded and would only become redundant, things such as "stop moving" or "start moving" are some examples of that.
 
 Q12: Please place your maze solution "code" below.
 
