@@ -59,7 +59,7 @@ I think that my language works perfectly, it begins with a start location and a 
 
 Q8: When you followed your partner group's instructions to solve their maze, did you encounter any steps that were unclear or ambiguous? How did you handle these situations, and what does this reveal about the importance of precision in instructions?
 
-TODO
+I noticed that unless you are intentionally trying to find a way to prove the steps to be incorrect, my partner's instructions were clear and concise.
 
 Q9: If you made a mistake or got stuck while following the instructions, what was the cause? Was it due to an error in the instructions, a misunderstanding, or something else? How does this relate to errors that can occur when a computer runs source code?
 
